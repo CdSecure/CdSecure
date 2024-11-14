@@ -7,8 +7,9 @@
   - [osTicket: Post-Installation Configuration](https://github.com/CdSecure//post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CdSecure//ticket-lifecycle)
 - <b>Microsoft Azure</b>
+  - - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CdSecure//azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CdSecure//configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CdSecure//azure-network-protocols)
+  
 
 <h2>🤳Connect with me:</h2>
 
