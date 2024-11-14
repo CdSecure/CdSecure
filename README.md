@@ -9,6 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CdSecure//azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CdSecure//configure-ad)
+  - [Deploying Active Directory](https://github.com/CdSecure/Deploying-Active-Directory/tree/main)
   
 
 <h2>🤳Connect with me:</h2>
