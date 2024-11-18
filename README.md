@@ -10,7 +10,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CdSecure//azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CdSecure//configure-ad)
   - [Deploying Active Directory](https://github.com/CdSecure/Deploying-Active-Directory/tree/main)
-  - [Using PowerShell to streamline and automate domain administration]
+  - [Using PowerShell to streamline and automate domain administration](https://github.com/CdSecure/Creating-users-with-powershell)
   
 
 <h2>🤳Connect with me:</h2>
