@@ -11,7 +11,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/CdSecure/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/CdSecure//post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CdSecure//ticket-lifecycle)
-- <b>Network Security Group</b>
+- <b>Exploring Azure and Networking Concepts</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/CdSecure//azure-network-protocols)
   
 
