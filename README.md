@@ -4,9 +4,9 @@
 
 
 - <b>Active Directory</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/CdSecure//configure-ad)
-  - [Deploying Active Directory](https://github.com/CdSecure/Deploying-Active-Directory/tree/main)
-  - [Using PowerShell to streamline and automate domain administration](https://github.com/CdSecure/Creating-users-with-powershell)
+  - [Preliminary Setup for Active Directory and Network Traffic Analysis with Azure VMs](https://github.com/CdSecure//configure-ad)
+  - [Active Directory Deployment and Configuration](https://github.com/CdSecure/Deploying-Active-Directory/tree/main)
+  - [Active Directory: User Generation](https://github.com/CdSecure/Creating-users-with-powershell)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/CdSecure/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/CdSecure//post-install-config)
